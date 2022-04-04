@@ -1,4 +1,0 @@
-# pokusy
-
-
-something about program
